@@ -5,7 +5,7 @@ Here are some things that may tell u about me:
 - 🔭 I’m currently working on my FYP 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: shuzaifa222@gmail.com 
-- ⚡ Fun fact: Drinking coffee can prevent depression. ...
+- ⚡ Fun fact: Drinking coffee can prevent depression....
 
 
 <!--
